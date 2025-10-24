@@ -1,0 +1,40 @@
+.navbar{
+    height:60px;
+    width:100vw;
+    background-color: rgb(69, 67, 67);
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    
+}
+.navbar>img{
+    margin-left:20px;
+}
+.navbar>button{
+    margin-right:20px;
+}
+
+.jobby-logo{
+    height:40px;
+    width:100px;
+    
+}
+.link-items>Link{
+    color:white !important;
+    text-decoration:none;
+
+}
+.item{
+    color:white !important;
+    margin-right:10px;
+    text-decoration:none;
+    font-weight: bold;
+}
+.logout-btn{
+    height:25px;
+    width:80px;
+    border-width: 0px;
+    background-color: rgb(41, 107, 228);
+    color:white;
+}
+
